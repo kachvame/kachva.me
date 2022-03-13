@@ -62,3 +62,12 @@ body {
   animation: infinite linear spin 3s;
   margin-left: 1rem;
 }
+
+.footer {
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  width: 100%;
+  transform: translateX(-50%);
+  text-align: center;
+}
